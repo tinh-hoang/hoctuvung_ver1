@@ -1,0 +1,81 @@
+BẢN 74 CHỦ ĐỀ — 5.446 MỤC TỪ
+
+Giải nén và tải đè đủ 5 tệp index.html, style.css, app.js, core.mjs, vocabulary.json vào đúng thư mục chứa index.html cũ trên GitHub.
+Không đổi tên vocabulary.json thành vocabulary(1).json hoặc vocabulary(2).json. Web chỉ tải tên vocabulary.json.
+Không tải nguyên ZIP hoặc thư mục bao ngoài. Sau đó bấm Commit changes. Đợi triển khai thành công rồi tải lại trang bằng Ctrl+F5.
+
+Danh sách 74 chủ đề:
+1. Thực phẩm & nguyên liệu
+2. Nấu ăn & hương vị
+3. Bữa ăn & đồ uống
+4. Gia đình & họ hàng
+5. Bạn bè & các mối quan hệ
+6. Tuổi tác & các giai đoạn sống
+7. Nhà ở & nội thất
+8. Việc nhà & sinh hoạt
+9. Quần áo & trang sức
+10. Cơ thể & giác quan
+11. Bệnh & chăm sóc sức khỏe
+12. Tâm lý & sức khỏe tinh thần
+13. Cảm xúc & mong muốn
+14. Tính cách & cách cư xử
+15. Trường học & đào tạo
+16. Ngôn ngữ & đọc viết
+17. Nghề nghiệp & nơi làm việc
+18. Doanh nghiệp & quản lý
+19. Tiền bạc & ngân hàng
+20. Kinh tế & đầu tư
+21. Mua sắm & dịch vụ
+22. Du lịch & lưu trú
+23. Đường bộ & đường sắt
+24. Hàng không & đường thủy
+25. Đô thị & công trình
+26. Địa hình & địa lý
+27. Động vật
+28. Cây cối & nông nghiệp
+29. Thời tiết & mùa
+30. Môi trường & tài nguyên
+31. Máy tính & Internet
+32. Máy móc & kỹ thuật
+33. Vật lý & vũ trụ
+34. Sinh học & hóa học
+35. Thể thao & vận động
+36. Âm nhạc & âm thanh
+37. Phim & sân khấu
+38. Mỹ thuật & sáng tạo
+39. Sách & văn chương
+40. Báo chí & truyền thông
+41. Chính trị & chính quyền
+42. Pháp luật & tội phạm
+43. Chiến tranh & quốc phòng
+44. An toàn & sự cố
+45. Tôn giáo & tín ngưỡng
+46. Xã hội & văn hóa
+47. Lịch & thời gian
+48. Số đếm & đo lường
+49. Màu sắc & hình dạng
+50. Kích thước & tính chất
+51. Vị trí & phương hướng
+52. Di chuyển & tư thế
+53. Thao tác & hoạt động
+54. Thay đổi & phát triển
+55. Trao nhận & sở hữu
+56. Giao tiếp & ứng xử
+57. Nói & trao đổi ý kiến
+58. Suy nghĩ & quyết định
+59. Nghiên cứu & bằng chứng
+60. Mục tiêu & nỗ lực
+61. Nguyên nhân & kết quả
+62. Đánh giá & mức độ phù hợp
+63. Cho phép & trách nhiệm
+64. Số lượng & mức độ
+65. Liên từ & liên kết ý
+66. Đại từ & từ chức năng
+67. Tần suất & trình tự
+68. Tổ chức & phân loại
+69. Trạng thái & tình huống
+70. Đồ vật & dụng cụ
+71. Con người & danh tính
+72. Giải trí & sự kiện
+73. Vật liệu & khoáng chất
+74. Cách thức & mức độ
